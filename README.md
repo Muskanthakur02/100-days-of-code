@@ -13,4 +13,4 @@ This repository tracks my daily coding progress and projects as I learn web deve
 - [Day 7 – CSS Grid & Mondrian Project](Day07-Grid/)
 - [Day 8 – Bootstrap & TinDog Project](Day08-Bootstrap-TinDog/)
 - [Day 9 – UI/UX & Web Design Principles](Day09-UIUX-Design/)
-- [Day 10 – Personal Portfolio Project (Part 2)]
+- [Day 10 – Personal Portfolio Project ].(https://muskanthakur02.github.io/my-personal-website/)
