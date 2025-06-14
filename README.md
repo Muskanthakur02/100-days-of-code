@@ -14,4 +14,4 @@ This repository tracks my daily coding progress and projects as I learn web deve
 - [Day 8 – Bootstrap & TinDog Project](Day08-Bootstrap-TinDog/)
 - [Day 9 – UI/UX & Web Design Principles](https://pinkhousetrip.my.canva.site/)
 - [Day 10 – Personal Portfolio Project ](https://muskanthakur02.github.io/my-personal-website/)
-- [Day 11 – JavaScript & ES6 Introduction](Day 11 – JavaScript & ES6/)
+- [Day 11 – JavaScript & ES6 Introduction](Day%20211%20-%20JavaScript%20%2620ES6/)
