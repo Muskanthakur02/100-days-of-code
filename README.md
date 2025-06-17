@@ -16,3 +16,4 @@ This repository tracks my daily coding progress and projects as I learn web deve
 - [Day 10 – Personal Portfolio Project ](https://muskanthakur02.github.io/my-personal-website/)
 - [Day 11 – JavaScript & ES6 Introduction](Day%20211%20-%20JavaScript%20%2620ES6/)
 - [Day 12 – Intermediate Javascript](Day12-Intermediate-Javascript/)
+- [Day 12 – The Document Object Model](Day13-The-Document-Object-Model)
