@@ -17,3 +17,4 @@ This repository tracks my daily coding progress and projects as I learn web deve
 - [Day 11 – JavaScript & ES6 Introduction](Day%20211%20-%20JavaScript%20%2620ES6/)
 - [Day 12 – Intermediate Javascript](Day12-Intermediate-Javascript/)
 - [Day 13 – The Document Object Model](Day13-The-Document-Object-Model)
+- [Day 14 – Advanced javascipt & DOM manipulation](Day14-Advanced-Javascript-DOM-Manipulation/)
