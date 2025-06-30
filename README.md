@@ -20,3 +20,4 @@ This repository tracks my daily coding progress and projects as I learn web deve
 - [Day 14 – Advanced javascipt & DOM manipulation](Day14-Advanced-Javascript-DOM-Manipulation/)
 - [Day 15 – Dice Challenge](Day15-DiceChallenge/)
 - [Day 16 – jQuery](Day16-jQuery/)
+- [Day 17 – The Unix Command Line](Day17-The-Unix-Command-Line/)
